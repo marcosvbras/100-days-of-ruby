@@ -9,4 +9,4 @@ This project is a continuation of a series called **X Days Of Something**, which
 
 | Day | Title      |
 | --- |:----------:|
-| 001 | [](/)|
+| 001 | [The beginning of everything - Primitive Data Types](day001/)|
