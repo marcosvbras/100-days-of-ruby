@@ -1,4 +1,8 @@
-# Data types
+=begin
+  Day 001 - The first of all: Data Types
+
+  This example covers some built-in data types.
+=end
 
 name = "Marcos Vinícius"
 puts name.class
