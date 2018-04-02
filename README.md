@@ -28,3 +28,4 @@ These examples were compiled with **Ruby 2.5.0**, so you need to install this ve
 | 001 | [The first of all: Data Types](day001/)|
 | 002 | [Conditions](day002/)|
 | 003 | [Strings I - Interpolation and Concatenation](day003/)|
+| 004 | [Strings II - Functions and formatting](day004/)|
