@@ -21,11 +21,12 @@ Everything is beautiful in **Ruby**: the name, the logo and the syntax, of cours
 
 ## Usage
 
-These examples were compiled with **Ruby 2.5.0**, so you need to install this version to correct operation according with was written. Maybe it works with other versions, but I didn't try. Stay free to modify according other versions.
+These examples were compiled with **Ruby 2.5.0**, so you need to install this version to correct operation according with was written. Maybe it works with other versions, but I didn't try.
 
 | Day | Title      |
 | --- |:----------:|
 | 001 | [The first of all: Data Types](day001/)|
-| 002 | [Conditions](day002/)|
-| 003 | [Strings I - Interpolation and Concatenation](day003/)|
+| 002 | [Everything in life demands conditions](day002/)|
+| 003 | [Strings I - Interpolate & Concatenate](day003/)|
 | 004 | [Strings II - Functions and formatting](day004/)|
+| 005 | [Symbols: What is this weird thing?](day005/)|

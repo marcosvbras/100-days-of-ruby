@@ -1,5 +1,5 @@
 =begin
-  Day 002 - Conditions
+  Day 002 - Everything in life demands conditions
 
   This example covers the conditional operator IF and a little bit about of Syntax Sugar.
 =end
