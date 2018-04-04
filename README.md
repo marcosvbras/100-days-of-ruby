@@ -30,3 +30,4 @@ These examples were compiled with **Ruby 2.5.0**, so you need to install this ve
 | 003 | [Strings I - Interpolate & Concatenate](day003/)|
 | 004 | [Strings II - Functions and formatting](day004/)|
 | 005 | [Symbols: What is this weird thing?](day005/)|
+| 006 | [Ruby Dictionaries with **Hash**](day006/)|
