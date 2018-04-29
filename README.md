@@ -9,9 +9,10 @@
 **100 Days Of Ruby** is inspired in [#100DaysOfCode](https://medium.freecodecamp.org/join-the-100daysofcode-556ddb4579e4) initiative and [60 Days Of Go](https://github.com/cassiobotaro/60-days-of-go) repository, where I learn something new about Ruby every day during 100 days.
 
 This project is a piece of a series called **X Days Of Something**, which one includes:
-- [100 Days Of Python](https://github.com/marcosvbras/100-days-of-python)
-- [100 Days Of Kotlin](https://github.com/marcosvbras/100-days-of-kotlin)
-- [100 Days Of Swift](https://github.com/marcosvbras/100-days-of-swift)
+-   [100 Days Of Python](https://github.com/marcosvbras/100-days-of-python)
+-   [100 Days Of Kotlin](https://github.com/marcosvbras/100-days-of-kotlin)
+-   [60 Days Of Shell Script](https://github.com/marcosvbras/60-days-of-shell-script)
+-   [100 Days Of Swift](https://github.com/marcosvbras/100-days-of-swift)
 
 ## Why am I doing this? Why Ruby?
 
@@ -24,10 +25,11 @@ Everything is beautiful in **Ruby**: the name, the logo and the syntax, of cours
 These examples were compiled with **Ruby 2.5.0**, so you need to install this version to correct operation according with was written. Maybe it works with other versions, but I didn't try.
 
 | Day | Title      |
-| --- |:----------:|
-| 001 | [The first of all: Data Types](day001/)|
-| 002 | [Everything in life demands conditions](day002/)|
-| 003 | [Strings I - Interpolate & Concatenate](day003/)|
-| 004 | [Strings II - Functions and formatting](day004/)|
-| 005 | [Symbols: What is this weird thing?](day005/)|
-| 006 | [Ruby Dictionaries with **Hash**](day006/)|
+| --- |:----------: |
+| 001 | [The first of all: Data Types](day001/) |
+| 002 | [Everything in life demands conditions](day002/) |
+| 003 | [Strings I - Interpolate & Concatenate](day003/) |
+| 004 | [Strings II - Functions and formatting](day004/) |
+| 005 | [Symbols: What is this weird thing?](day005/) |
+| 006 | [Ruby Dictionaries with **Hash**](day006/) |
+| 007 | [Working with Arrays](day007/) |
