@@ -20,6 +20,12 @@ Writing code that works is easy (most of the time). But writing efficient, clear
 
 Everything is beautiful in **Ruby**: the name, the logo and the syntax, of course. The **Syntax Sugar** is incredible and makes me miss it when I am coding with other programming languages. In addition, Ruby has a huge library amount, a large community and is used by big players (like Github). So, let's code?
 
+So, **let's code**?
+
+<p align="center">
+  <img src="https://raw.github.com/marcosvbras/100-days-of-ruby/master/images/programming.gif" alt="Custom image"/>
+</p>
+
 ## Usage
 
 These examples were compiled with **Ruby 2.5.0**, so you need to install this version to correct operation according with was written. Maybe it works with other versions, but I didn't try.
@@ -33,3 +39,4 @@ These examples were compiled with **Ruby 2.5.0**, so you need to install this ve
 | 005 | [Symbols: What is this weird thing?](day005/) |
 | 006 | [Ruby Dictionaries with **Hash**](day006/) |
 | 007 | [Working with Arrays](day007/) |
+| 008 | [Creating Methods](day008/) |
