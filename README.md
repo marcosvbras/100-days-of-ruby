@@ -8,6 +8,10 @@
 
 **100 Days Of Ruby** is inspired in [#100DaysOfCode](https://medium.freecodecamp.org/join-the-100daysofcode-556ddb4579e4) initiative and [60 Days Of Go](https://github.com/cassiobotaro/60-days-of-go) repository, where I learn something new about Ruby every day during 100 days.
 
+<p align="center">
+  <img src="https://raw.github.com/marcosvbras/100-days-of-ruby/master/images/programming_languages.jpg" alt="Custom image"/>
+</p>
+
 This project is a piece of a series called **X Days Of Something**, which one includes:
 -   [100 Days Of Python](https://github.com/marcosvbras/100-days-of-python)
 -   [100 Days Of Kotlin](https://github.com/marcosvbras/100-days-of-kotlin)
