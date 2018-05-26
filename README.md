@@ -41,3 +41,4 @@ These examples were compiled with **Ruby 2.5.0**, so you need to install this ve
 | 007 | [Working with Arrays](day007/) |
 | 008 | [Creating Methods](day008/) |
 | 009 | [Classes I: Constructor and Accessors](day009/) |
+| 010 | [Classes II: Inheritance](day010/) |
