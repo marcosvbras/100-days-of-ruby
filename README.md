@@ -47,3 +47,4 @@ These examples were compiled with **Ruby 2.5.0**, so you need to install this ve
 | 009 | [Classes I: Constructor and Accessors](day009/) |
 | 010 | [Classes II: Inheritance](day010/) |
 | 011 | [Class III: Class variables and Methods](day011/) |
+| 012 | [Blocks: Like methods, but without a name](day012/) |
