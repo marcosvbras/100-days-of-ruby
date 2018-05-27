@@ -32,7 +32,7 @@ So, **let's code**?
 
 ## Usage
 
-These examples were compiled with **Ruby 2.5.0**, so you need to install this version to correct operation according with was written. Maybe it works with other versions, but I didn't try.
+These examples were compiled with **Ruby 2.5.1**, so you need to install this version to correct operation according with was written. Maybe it works with other versions, but I didn't try.
 
 | Day | Title      |
 | --- |:----------: |
@@ -48,3 +48,4 @@ These examples were compiled with **Ruby 2.5.0**, so you need to install this ve
 | 010 | [Classes II: Inheritance](day010/) |
 | 011 | [Class III: Class variables and Methods](day011/) |
 | 012 | [Blocks: Like methods, but without a name](day012/) |
+| 013 | [Using While and similar loops](day013/) |
