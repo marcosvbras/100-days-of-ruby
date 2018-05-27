@@ -6,7 +6,7 @@
 
 ## What is this?
 
-**100 Days Of Ruby** is inspired in [#100DaysOfCode](https://medium.freecodecamp.org/join-the-100daysofcode-556ddb4579e4) initiative and [60 Days Of Go](https://github.com/cassiobotaro/60-days-of-go) repository, where I learn something new about Ruby every day during 100 days.
+**100 Days Of Ruby** is inspired in [#100DaysOfCode](https://medium.freecodecamp.org/join-the-100daysofcode-556ddb4579e4) initiative and [60 Days Of Go](https://github.com/cassiobotaro/60-days-of-go) repository, where I learn something new about **Ruby** every day during 100 days.
 
 <p align="center">
   <img src="https://raw.github.com/marcosvbras/100-days-of-ruby/master/images/programming_languages.jpg" alt="Custom image"/>
@@ -46,3 +46,4 @@ These examples were compiled with **Ruby 2.5.0**, so you need to install this ve
 | 008 | [Creating Methods](day008/) |
 | 009 | [Classes I: Constructor and Accessors](day009/) |
 | 010 | [Classes II: Inheritance](day010/) |
+| 011 | [Class III: Class variables and Methods](day011/) |
