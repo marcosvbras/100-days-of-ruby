@@ -38,6 +38,12 @@ puts ["a", "b", "c"].collect { |letter| letter.upcase }
 # => B
 # => C
 
+numbers = [1, 2, 3, 4, 5].collect.with_index do |number, index|
+  number + index
+end
+puts numbers
+# => [1, 3, 5, 7, 9]
+
 ## "map" method is an alias to "collect" method
 puts ["a", "b", "c"].map { |letter| letter.upcase }
 # => A

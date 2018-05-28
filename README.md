@@ -40,12 +40,13 @@ These examples were compiled with **Ruby 2.5.1**, so you need to install this ve
 | 002 | [Everything in life demands conditions](day002/) |
 | 003 | [Strings I - Interpolate & Concatenate](day003/) |
 | 004 | [Strings II - Functions and formatting](day004/) |
-| 005 | [Symbols: What is this weird thing?](day005/) |
+| 005 | [**Symbols**: What is this weird thing?](day005/) |
 | 006 | [Ruby Dictionaries with **Hash**](day006/) |
-| 007 | [Working with Arrays](day007/) |
+| 007 | [Working with **Arrays**](day007/) |
 | 008 | [Creating Methods](day008/) |
 | 009 | [Classes I: Constructor and Accessors](day009/) |
 | 010 | [Classes II: Inheritance](day010/) |
 | 011 | [Class III: Class variables and Methods](day011/) |
-| 012 | [Blocks: Like methods, but without a name](day012/) |
-| 013 | [Using While and similar loops](day013/) |
+| 012 | [**Blocks**: Like methods, but without a name](day012/) |
+| 013 | [**While** and similar loops](day013/) |
+| 014 | [**For**, similar loops and Hash iterations](day014/) |
