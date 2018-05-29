@@ -1,5 +1,5 @@
 =begin
-  Day 007: Working with Arrays
+  [Day 007] Arrays: It really looks like a List!
 =end
 
 # Creating a Homogeneous Array

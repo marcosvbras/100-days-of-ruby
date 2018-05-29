@@ -1,5 +1,5 @@
 =begin
-  Day 014 - For, similar loops and Hash iterations
+  [Day 014] For, similar loops and Hash iterations
 =end
 
 ## The first and the last numbers will be in the loop

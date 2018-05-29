@@ -1,5 +1,5 @@
 =begin
-  Day 004 - Strings II - Functions and formatting
+  [Day 004] Strings II - Functions and formatting
 =end
 
 #### The following functions don't change the original variable value

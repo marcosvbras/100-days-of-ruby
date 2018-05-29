@@ -1,5 +1,5 @@
 =begin
-  Day 008: Creating Methods
+  [Day 008] Creating Methods
 =end
 
 ### Simple method definition

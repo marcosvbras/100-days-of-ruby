@@ -1,5 +1,5 @@
 =begin
-  Day 003: Strings I - Interpolate & Concatenate
+  [Day 003] Strings I - Interpolate & Concatenate
 
   This example covers: String interpolation and String concatenation
 =end

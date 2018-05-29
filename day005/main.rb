@@ -1,5 +1,5 @@
 =begin
-  Day 005 - Symbols: What is this weird thing?
+  [Day 005] Symbols: What is this weird thing?
 
   This example covers the use of Symbols and when I must use.
 

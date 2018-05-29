@@ -1,5 +1,5 @@
 =begin
-  Day 010: Classes II: Inheritance
+  [Day 010] Classes II: Inherit to have more!
 =end
 
 load 'smartphone.rb'

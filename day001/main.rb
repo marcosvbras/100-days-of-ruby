@@ -1,5 +1,5 @@
 =begin
-  Day 001 - The first of all: Data Types
+  [Day 001] The first of all: Data Types
 
   This example covers some built-in data types.
 =end

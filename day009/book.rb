@@ -1,5 +1,5 @@
 =begin
-  Day 009: Classes I: Constructor and Accessors
+  [Day 009] Classes I: Constructor and Accessors
     - All instance variables are private.
 =end
 

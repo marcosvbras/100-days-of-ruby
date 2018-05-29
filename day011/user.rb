@@ -1,5 +1,5 @@
 =begin
-  Day 011: Class III - Class variables and Methods
+  [Day 011] Class III - Class variables and Methods
 =end
 
 class User
