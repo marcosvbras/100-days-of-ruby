@@ -18,9 +18,11 @@ This project is a piece of a series called **X Days Of Something**, which one in
 -   [60 Days Of Shell Script](https://github.com/marcosvbras/60-days-of-shell-script)
 -   [100 Days Of Swift](https://github.com/marcosvbras/100-days-of-swift)
 
-## Why am I doing this? Why Ruby?
+## Why am I doing this?
 
-Writing code that works is easy (most of the time). But writing efficient, clear, concise, scalable, and maintainable code is very difficult. It may be better with a lot of practice in various types of problems and paradigms, in addition to having mastery of the language you are coding.
+Writing code that works is easy (most of the time). But writing efficient, clear, concise, scalable, and maintainable code is very difficult. It may be better with a lot of practice in various types of problems and paradigms, in addition to having mastery of the language you are coding. Because of that, I decided to code every day to get out of my comfort zone and improve my view about the huge world of software development.
+
+## Why Ruby?
 
 Everything is beautiful in **Ruby**: the name, the logo and the syntax, of course. The **Syntax Sugar** is incredible and makes me miss it when I am coding with other programming languages. In addition, Ruby has a huge library amount, a large community and is used by big players (like Github). So, let's code?
 
@@ -32,7 +34,7 @@ So, **let's code**?
 
 ## Usage
 
-These examples were compiled with **Ruby 2.5.1**, so you need to install this version to correct operation according with was written. Maybe it works with other versions, but I didn't try.
+These examples were compiled with **Ruby 2.5.1**. It is recommended to install this exactly version for a correct running.
 
 | Day | Title      |
 | --- |:----------: |
