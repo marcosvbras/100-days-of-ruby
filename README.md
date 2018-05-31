@@ -54,3 +54,4 @@ These examples were compiled with **Ruby 2.5.1**. It is recommended to install t
 | 014 | [**For**, similar loops and **Hash** iterations](day014/) |
 | 015 | [Arguments: Do I Need to use parentheses?](day015/) |
 | 016 | [String Encryption and Base64 converter](day016/) |
+| 017 | [Keeping only unique stuff with **Set**](day017/) |
