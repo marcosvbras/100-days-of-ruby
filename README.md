@@ -24,7 +24,7 @@ Writing code that works is easy (most of the time). But writing efficient, clear
 
 ## Why Ruby?
 
-Everything is beautiful in **Ruby**: the name, the logo and the syntax, of course. The **Syntax Sugar** is incredible and makes me miss it when I am coding with other programming languages. In addition, Ruby has a huge library amount, a large community and is used by big players (like Github). So, let's code?
+Everything is beautiful in **Ruby**: the name, the logo and the syntax, of course. The **Syntax Sugar** is incredible and makes me miss it when I am coding with other programming languages. In addition, Ruby has a huge library amount, a large community and is used by big players (like Github).
 
 So, **let's code**?
 
@@ -48,8 +48,9 @@ These examples were compiled with **Ruby 2.5.1**. It is recommended to install t
 | 008 | [Creating Methods](day008/) |
 | 009 | [Classes I: Constructor and Accessors](day009/) |
 | 010 | [Classes II: Inherit to have more!](day010/) |
-| 011 | [Class III: Class variables and Methods](day011/) |
+| 011 | [Classes III: Class variables and Methods](day011/) |
 | 012 | [**Blocks**: Like methods, but without a name](day012/) |
 | 013 | [**While** and similar loops](day013/) |
-| 014 | [**For**, similar loops and Hash iterations](day014/) |
+| 014 | [**For**, similar loops and **Hash** iterations](day014/) |
 | 015 | [Arguments: Do I Need to use parentheses?](day015/) |
+| 016 | [String Encryption and Base64 converter](day016/) |
