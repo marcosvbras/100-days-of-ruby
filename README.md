@@ -20,11 +20,11 @@ This project is a piece of a series called **X Days Of Something**, which one in
 
 ## Why am I doing this?
 
-Writing code that works is easy (most of the time). But writing efficient, clear, concise, scalable, and maintainable code is very difficult. It may be better with a lot of practice in various types of problems and paradigms, in addition to having mastery of the language you are coding. Because of that, I decided to code every day to get out of my comfort zone and improve my view about the huge world of software development.
+Well, writing code that works is easy (most of the time). But writing **efficient**, **clear**, **concise**, **scalable**, and **maintainable** code is very difficult. It may be better with a lot of practice in various types of problems and paradigms, in addition to having mastery of the language you are coding. Because of that, I decided to code every day to get out of my comfort zone and improve my view about the huge world of software development.
 
 ## Why Ruby?
 
-Everything is beautiful in **Ruby**: the name, the logo and the syntax, of course. The **Syntax Sugar** is incredible and makes me miss it when I am coding with other programming languages. In addition, Ruby has a huge library amount, a large community and is used by big players (like Github).
+The right question is: **Why not Ruby**? Everything is beautiful in **Ruby**: the name, the logo and the syntax, of course. The **Syntax Sugar** is incredible and makes me miss it when I am coding with other programming languages. In addition, Ruby has a huge library amount, a large community and is used by big players (like Github).
 
 So, **let's code**?
 
@@ -55,3 +55,4 @@ These examples were compiled with **Ruby 2.5.1**. It is recommended to install t
 | 015 | [Arguments: Do I Need to use parentheses?](day015/) |
 | 016 | [String Encryption and Base64 converter](day016/) |
 | 017 | [Keeping only unique stuff with **Set**](day017/) |
+| 018 | [Pure vs. Imperative: The symbol "!"](day018/) |

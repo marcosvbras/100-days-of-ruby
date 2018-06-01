@@ -41,9 +41,6 @@ puts "".empty?
 puts first_name.reverse.upcase
 # => SOCRAM
 
-puts first_name.capitalize!
-# => Marcos
-
 puts "Marcos"[0]
 # => M
 
