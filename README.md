@@ -56,3 +56,4 @@ These examples were compiled with **Ruby 2.5.1**. It is recommended to install t
 | 016 | [String Encryption and Base64 converter](day016/) |
 | 017 | [Keeping only unique stuff with **Set**](day017/) |
 | 018 | [Pure vs. Imperative: The symbol "!"](day018/) |
+| 019 | [**File** API - Writing and reading files](day019/) |
