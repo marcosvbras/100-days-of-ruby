@@ -38,22 +38,22 @@ These examples were compiled with **Ruby 2.5.1**. It is recommended to install t
 
 | Day | Title      |
 | --- |:----------: |
-| 001 | [The first of all: Data Types](day001/) |
-| 002 | [Everything in life demands conditions](day002/) |
-| 003 | [Strings I - Interpolate & Concatenate](day003/) |
-| 004 | [Strings II - Functions and formatting](day004/) |
-| 005 | [**Symbols**: What is this weird thing?](day005/) |
-| 006 | [Ruby Dictionaries with **Hash**](day006/) |
-| 007 | [**Arrays**: It really looks like a List!](day007/) |
-| 008 | [Creating Methods](day008/) |
-| 009 | [Classes I: Constructor and Accessors](day009/) |
-| 010 | [Classes II: Inherit to have more!](day010/) |
-| 011 | [Classes III: Class variables and Methods](day011/) |
-| 012 | [**Blocks**: Like methods, but without a name](day012/) |
-| 013 | [**While** and similar loops](day013/) |
-| 014 | [**For**, similar loops and **Hash** iterations](day014/) |
-| 015 | [Arguments: Do I Need to use parentheses?](day015/) |
-| 016 | [String Encryption and Base64 converter](day016/) |
-| 017 | [Keeping only unique stuff with **Set**](day017/) |
-| 018 | [Pure vs. Imperative: The symbol "!"](day018/) |
-| 019 | [**File** API - Writing and reading files](day019/) |
+| 001 | [The first of all: Data Types](days/day001/) |
+| 002 | [Everything in life demands conditions](days/day002/) |
+| 003 | [Strings I - Interpolate & Concatenate](days/day003/) |
+| 004 | [Strings II - Functions and formatting](days/day004/) |
+| 005 | [**Symbols**: What is this weird thing?](days/day005/) |
+| 006 | [Ruby Dictionaries with **Hash**](days/day006/) |
+| 007 | [**Arrays**: It really looks like a List!](days/day007/) |
+| 008 | [Creating Methods](days/day008/) |
+| 009 | [Classes I: Constructor and Accessors](days/day009/) |
+| 010 | [Classes II: Inherit to have more!](days/day010/) |
+| 011 | [Classes III: Class variables and Methods](days/day011/) |
+| 012 | [**Blocks**: Like methods, but without a name](days/day012/) |
+| 013 | [**While** and similar loops](days/day013/) |
+| 014 | [**For**, similar loops and **Hash** iterations](days/day014/) |
+| 015 | [Arguments: Do I Need to use parentheses?](days/day015/) |
+| 016 | [String Encryption and Base64 converter](days/day016/) |
+| 017 | [Keeping only unique stuff with **Set**](days/day017/) |
+| 018 | [Pure vs. Imperative: The symbol "!"](days/day018/) |
+| 019 | [**File** API - Writing and reading files](days/day019/) |
