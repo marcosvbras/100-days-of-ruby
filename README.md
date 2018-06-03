@@ -40,8 +40,8 @@ These examples were compiled with **Ruby 2.5.1**. It is recommended to install t
 | --- |:----------: |
 | 001 | [The first of all: Data Types](days/day001/) |
 | 002 | [Everything in life demands conditions](days/day002/) |
-| 003 | [Strings I - Interpolate & Concatenate](days/day003/) |
-| 004 | [Strings II - Functions and formatting](days/day004/) |
+| 003 | [Strings I: Interpolate & Concatenate](days/day003/) |
+| 004 | [Strings II: Functions and formatting](days/day004/) |
 | 005 | [**Symbols**: What is this weird thing?](days/day005/) |
 | 006 | [Ruby Dictionaries with **Hash**](days/day006/) |
 | 007 | [**Arrays**: It really looks like a List!](days/day007/) |
@@ -56,4 +56,5 @@ These examples were compiled with **Ruby 2.5.1**. It is recommended to install t
 | 016 | [String Encryption and Base64 converter](days/day016/) |
 | 017 | [Keeping only unique stuff with **Set**](days/day017/) |
 | 018 | [Pure vs. Imperative: The symbol "!"](days/day018/) |
-| 019 | [**File** API - Writing and reading files](days/day019/) |
+| 019 | [**File** API I: Writing and reading files](days/day019/) |
+| 020 | [**File** API II: Some Utilities](days/day020/) |
