@@ -59,3 +59,4 @@ These examples were compiled with **Ruby 2.5.1**. It is recommended to install t
 | 019 | [**File** API I: Writing and reading files](days/day019/) |
 | 020 | [**File** API II: Some Utilities](days/day020/) |
 | 021 | [Object serialization to **YAML** format](days/day021/) |
+| 022 | [**Mixins** and the **Constant lookup**](days/day022/) |
