@@ -1,5 +1,5 @@
 =begin
-  [Day 022] Mixins and the Constant lookup
+  [Day 022] Using Mixins as Namespaces
     - Mixins (or modules) are like Java packages
     - You can access Classes inside Mixins with Constant Lookups "::"
 =end
