@@ -61,3 +61,4 @@ These examples were compiled with **Ruby 2.5.1**. It is recommended to install t
 | 021 | [Object serialization to **YAML** format](days/day021/) |
 | 022 | [Using **Mixins** as Namespaces](days/day022/) |
 | 023 | [Using **Mixins** as Inheritance Alternative](days/day023/) |
+| 024 | [Including **Mixins** within existing objects](days/day024/) |
